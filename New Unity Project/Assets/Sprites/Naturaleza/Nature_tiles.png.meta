@@ -1,0 +1,3680 @@
+fileFormatVersion: 2
+guid: 7f12636658e328a419215c656e509fb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5103857988823327135
+    second: Nature_tiles_0
+  - first:
+      213: 8753050223432961488
+    second: Nature_tiles_1
+  - first:
+      213: 1794996237434415716
+    second: Nature_tiles_2
+  - first:
+      213: -1671942409439552703
+    second: Nature_tiles_3
+  - first:
+      213: 4458066732356455389
+    second: Nature_tiles_4
+  - first:
+      213: 843394063009817883
+    second: Nature_tiles_5
+  - first:
+      213: -3285500067403553496
+    second: Nature_tiles_6
+  - first:
+      213: -3102724161912947931
+    second: Nature_tiles_7
+  - first:
+      213: -768237984738688160
+    second: Nature_tiles_8
+  - first:
+      213: -217483091856910560
+    second: Nature_tiles_9
+  - first:
+      213: 7776735427561514143
+    second: Nature_tiles_10
+  - first:
+      213: -5141245849674116935
+    second: Nature_tiles_11
+  - first:
+      213: 3521206450353527435
+    second: Nature_tiles_12
+  - first:
+      213: -2771900145901458294
+    second: Nature_tiles_13
+  - first:
+      213: -4607468746448873775
+    second: Nature_tiles_14
+  - first:
+      213: -1423277281019425890
+    second: Nature_tiles_15
+  - first:
+      213: 1579280036025425456
+    second: Nature_tiles_16
+  - first:
+      213: -8980620395805980820
+    second: Nature_tiles_17
+  - first:
+      213: 2914693497551732113
+    second: Nature_tiles_18
+  - first:
+      213: 8356813012283322019
+    second: Nature_tiles_19
+  - first:
+      213: -9010018996861064151
+    second: Nature_tiles_20
+  - first:
+      213: 4477435548190704745
+    second: Nature_tiles_21
+  - first:
+      213: 8885426766529436370
+    second: Nature_tiles_22
+  - first:
+      213: 7530451386830407422
+    second: Nature_tiles_23
+  - first:
+      213: 5469235033268022176
+    second: Nature_tiles_24
+  - first:
+      213: -8521039981674022350
+    second: Nature_tiles_25
+  - first:
+      213: 5511564891448144381
+    second: Nature_tiles_26
+  - first:
+      213: 1254985298700879222
+    second: Nature_tiles_27
+  - first:
+      213: 7239594153875434833
+    second: Nature_tiles_28
+  - first:
+      213: 8791416773109831658
+    second: Nature_tiles_29
+  - first:
+      213: -5648261382480819153
+    second: Nature_tiles_30
+  - first:
+      213: -4992040745843078390
+    second: Nature_tiles_31
+  - first:
+      213: -5314479694906292873
+    second: Nature_tiles_32
+  - first:
+      213: -7413542414292302149
+    second: Nature_tiles_33
+  - first:
+      213: 6665621840025112337
+    second: Nature_tiles_34
+  - first:
+      213: -194266904044750784
+    second: Nature_tiles_35
+  - first:
+      213: 8618261611402423679
+    second: Nature_tiles_36
+  - first:
+      213: -8016449574690718237
+    second: Nature_tiles_37
+  - first:
+      213: -4267093556125622102
+    second: Nature_tiles_38
+  - first:
+      213: -8489988693215679981
+    second: Nature_tiles_39
+  - first:
+      213: 8399093761376481382
+    second: Nature_tiles_40
+  - first:
+      213: -7307999576911820179
+    second: Nature_tiles_41
+  - first:
+      213: 2316304075509328944
+    second: Nature_tiles_42
+  - first:
+      213: -5353318115666469809
+    second: Nature_tiles_43
+  - first:
+      213: -1397062801716910169
+    second: Nature_tiles_44
+  - first:
+      213: 692496429205420659
+    second: Nature_tiles_45
+  - first:
+      213: 1056330310223351558
+    second: Nature_tiles_46
+  - first:
+      213: -9090286793023241453
+    second: Nature_tiles_47
+  - first:
+      213: 1412818320222415385
+    second: Nature_tiles_48
+  - first:
+      213: 96807322906497671
+    second: Nature_tiles_49
+  - first:
+      213: 5087410383454528070
+    second: Nature_tiles_50
+  - first:
+      213: -7075953910853096884
+    second: Nature_tiles_51
+  - first:
+      213: -1912089408416141315
+    second: Nature_tiles_52
+  - first:
+      213: 3813929746354455329
+    second: Nature_tiles_53
+  - first:
+      213: -732174957531404025
+    second: Nature_tiles_54
+  - first:
+      213: -7047653035593844505
+    second: Nature_tiles_55
+  - first:
+      213: -5611255434151593039
+    second: Nature_tiles_56
+  - first:
+      213: 6970281270143755568
+    second: Nature_tiles_57
+  - first:
+      213: -6929111173186350865
+    second: Nature_tiles_58
+  - first:
+      213: -3104030871893243557
+    second: Nature_tiles_59
+  - first:
+      213: 4417310718681168126
+    second: Nature_tiles_60
+  - first:
+      213: 4318079234256485822
+    second: Nature_tiles_61
+  - first:
+      213: 3034944063441894813
+    second: Nature_tiles_62
+  - first:
+      213: 8382941138563306371
+    second: Nature_tiles_63
+  - first:
+      213: -6280326413001676666
+    second: Nature_tiles_64
+  - first:
+      213: -4581926078936834894
+    second: Nature_tiles_65
+  - first:
+      213: 5869412753666711845
+    second: Nature_tiles_66
+  - first:
+      213: -1797422373551242523
+    second: Nature_tiles_67
+  - first:
+      213: 6249113671946019824
+    second: Nature_tiles_68
+  - first:
+      213: -8277587285740150933
+    second: Nature_tiles_69
+  - first:
+      213: 5044808424509035083
+    second: Nature_tiles_70
+  - first:
+      213: -302721924900195602
+    second: Nature_tiles_71
+  - first:
+      213: 5684986547672976912
+    second: Nature_tiles_72
+  - first:
+      213: 6330519468348339418
+    second: Nature_tiles_73
+  - first:
+      213: -7684762135812050792
+    second: Nature_tiles_74
+  - first:
+      213: -897411809270521260
+    second: Nature_tiles_75
+  - first:
+      213: 2605695341587983474
+    second: Nature_tiles_76
+  - first:
+      213: -2652597392657775188
+    second: Nature_tiles_77
+  - first:
+      213: 4084496743828981544
+    second: Nature_tiles_78
+  - first:
+      213: 8539256946352402362
+    second: Nature_tiles_79
+  - first:
+      213: 3746935322540537169
+    second: Nature_tiles_80
+  - first:
+      213: -5579827284666851885
+    second: Nature_tiles_81
+  - first:
+      213: 88832486577978213
+    second: Nature_tiles_82
+  - first:
+      213: 2792168685387075710
+    second: Nature_tiles_83
+  - first:
+      213: 3268259875427288342
+    second: Nature_tiles_84
+  - first:
+      213: -7301470506922419590
+    second: Nature_tiles_85
+  - first:
+      213: 5120755667626037830
+    second: Nature_tiles_86
+  - first:
+      213: -5135915526966794973
+    second: Nature_tiles_87
+  - first:
+      213: 8340284600495314432
+    second: Nature_tiles_88
+  - first:
+      213: -5738568760110983175
+    second: Nature_tiles_89
+  - first:
+      213: 4177396365363147365
+    second: Nature_tiles_90
+  - first:
+      213: 6978884898656892697
+    second: Nature_tiles_91
+  - first:
+      213: -4937723433205030203
+    second: Nature_tiles_92
+  - first:
+      213: -5556293163272794841
+    second: Nature_tiles_93
+  - first:
+      213: -5335712101015811067
+    second: Nature_tiles_94
+  - first:
+      213: 9126538015112869268
+    second: Nature_tiles_95
+  - first:
+      213: 7325421359616153416
+    second: Nature_tiles_96
+  - first:
+      213: -1574234886694073944
+    second: Nature_tiles_97
+  - first:
+      213: 6246476226686514404
+    second: Nature_tiles_98
+  - first:
+      213: -4353758777316399560
+    second: Nature_tiles_99
+  - first:
+      213: -1206677355820636936
+    second: Nature_tiles_100
+  - first:
+      213: 7471022498362550729
+    second: Nature_tiles_101
+  - first:
+      213: -4808584101103438619
+    second: Nature_tiles_102
+  - first:
+      213: -4233447991272730243
+    second: Nature_tiles_103
+  - first:
+      213: 1913552177051994209
+    second: Nature_tiles_104
+  - first:
+      213: 3965423446142925092
+    second: Nature_tiles_105
+  - first:
+      213: -435868652498444363
+    second: Nature_tiles_106
+  - first:
+      213: -7174852566964288405
+    second: Nature_tiles_107
+  - first:
+      213: 5180186820341843452
+    second: Nature_tiles_108
+  - first:
+      213: -9084937932029056326
+    second: Nature_tiles_109
+  - first:
+      213: -1838030546670723470
+    second: Nature_tiles_110
+  - first:
+      213: -3101549826028806376
+    second: Nature_tiles_111
+  - first:
+      213: 3263302472434922688
+    second: Nature_tiles_112
+  - first:
+      213: 1685270624656055378
+    second: Nature_tiles_113
+  - first:
+      213: 7282763197982981786
+    second: Nature_tiles_114
+  - first:
+      213: 4490673238300055783
+    second: Nature_tiles_115
+  - first:
+      213: -3414717710708803133
+    second: Nature_tiles_116
+  - first:
+      213: 1382023470181947096
+    second: Nature_tiles_117
+  - first:
+      213: 1969473678174264758
+    second: Nature_tiles_118
+  - first:
+      213: 1617508940199944298
+    second: Nature_tiles_119
+  - first:
+      213: -4126039450808328260
+    second: Nature_tiles_120
+  - first:
+      213: -9033885226810495065
+    second: Nature_tiles_121
+  - first:
+      213: -3548249385929318722
+    second: Nature_tiles_122
+  - first:
+      213: 7313212613176172600
+    second: Nature_tiles_123
+  - first:
+      213: -4314274423192879774
+    second: Nature_tiles_124
+  - first:
+      213: -113033597167651952
+    second: Nature_tiles_125
+  - first:
+      213: 8589995861782190780
+    second: Nature_tiles_126
+  - first:
+      213: -142931884685187792
+    second: Nature_tiles_127
+  - first:
+      213: 6151522547487484792
+    second: Nature_tiles_128
+  - first:
+      213: 7970332139956682486
+    second: Nature_tiles_129
+  - first:
+      213: 3650406690479026424
+    second: Nature_tiles_130
+  - first:
+      213: -8952741776295375633
+    second: Nature_tiles_131
+  - first:
+      213: 7523417657014173455
+    second: Nature_tiles_132
+  - first:
+      213: 4420837013585317849
+    second: Nature_tiles_133
+  - first:
+      213: -8667910110937565583
+    second: Nature_tiles_134
+  - first:
+      213: 4693763216982322925
+    second: Nature_tiles_135
+  - first:
+      213: -4408166108943153985
+    second: Nature_tiles_136
+  - first:
+      213: -5979650486765524699
+    second: Nature_tiles_137
+  - first:
+      213: 4063700190549445559
+    second: Nature_tiles_138
+  - first:
+      213: -3117905202219503299
+    second: Nature_tiles_139
+  - first:
+      213: 9085113558239550274
+    second: Nature_tiles_140
+  - first:
+      213: -8588536821082344962
+    second: Nature_tiles_141
+  - first:
+      213: 2915715081796624000
+    second: Nature_tiles_142
+  - first:
+      213: -4885620546521103308
+    second: Nature_tiles_143
+  - first:
+      213: -6712959720141126418
+    second: Nature_tiles_144
+  - first:
+      213: -2529381717430240306
+    second: Nature_tiles_145
+  - first:
+      213: -723373469889218221
+    second: Nature_tiles_146
+  - first:
+      213: 7429851045449049755
+    second: Nature_tiles_147
+  - first:
+      213: -331075570639672799
+    second: Nature_tiles_148
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nature_tiles_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 457
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91aad7accb84d640800000000000000
+      internalID: 5103857988823327135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 463
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd00e47dc4197970800000000000000
+      internalID: 8753050223432961488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 450
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ae071519b19e810800000000000000
+      internalID: 1794996237434415716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_3
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 450
+        width: 30
+        height: 30
+      alignment: 9
+      pivot: {x: 0.50000256, y: 0.53048706}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14bd178ac311cc8e0800000000000000
+      internalID: -1671942409439552703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_4
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 450
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbc71fb21c3edd30800000000000000
+      internalID: 4458066732356455389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_5
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 452
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15af5b8e6654bb00800000000000000
+      internalID: 843394063009817883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 419
+        width: 31
+        height: 30
+      alignment: 9
+      pivot: {x: 0.48093262, y: 0.52758384}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825a3e4981f8762d0800000000000000
+      internalID: -3285500067403553496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_7
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 450
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b382d40d8e0f4d0800000000000000
+      internalID: -3102724161912947931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 451
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06340b88f9ba655f0800000000000000
+      internalID: -768237984738688160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_9
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 450
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027173db7485bfcf0800000000000000
+      internalID: -217483091856910560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_10
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 450
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94efff1ba38ceb60800000000000000
+      internalID: 7776735427561514143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_11
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 449
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01933a320a6a8b0800000000000000
+      internalID: -5141245849674116935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_12
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 449
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ad2264c96ddd030800000000000000
+      internalID: 3521206450353527435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_13
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ca0b2e08b3889d0800000000000000
+      internalID: -2771900145901458294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 449
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d65336269bfe00c0800000000000000
+      internalID: -4607468746448873775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_15
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 449
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b04ff8ad08f3ce0800000000000000
+      internalID: -1423277281019425890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_16
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 450
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e592c43dabae510800000000000000
+      internalID: 1579280036025425456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 420
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c674b55d45d6e5380800000000000000
+      internalID: -8980620395805980820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_18
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 423
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d36b61b42137820800000000000000
+      internalID: 2914693497551732113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_19
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 420
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ae628b882d59f370800000000000000
+      internalID: 8356813012283322019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_20
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 422
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c2390a57bf5f280800000000000000
+      internalID: -9010018996861064151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_21
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 420
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9640d9a98eb032e30800000000000000
+      internalID: 4477435548190704745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 422
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da1cb031906f4b70800000000000000
+      internalID: 8885426766529436370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_23
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 300
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6cf5663a9818860800000000000000
+      internalID: 7530451386830407422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 300
+        width: 123
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abef071940a6eb40800000000000000
+      internalID: 5469235033268022176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_25
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 359
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23a3b67784f2fb980800000000000000
+      internalID: -8521039981674022350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_26
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 299
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1f74731130d7c40800000000000000
+      internalID: 5511564891448144381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_27
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 359
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675476fda7a9a6110800000000000000
+      internalID: 1254985298700879222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_28
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 359
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6db3a684387460800000000000000
+      internalID: 7239594153875434833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_29
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 329
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae75f99e9f2610a70800000000000000
+      internalID: 8791416773109831658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_30
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 389
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c8caac2385d91b0800000000000000
+      internalID: -5648261382480819153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 358
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b4fbff365b8bab0800000000000000
+      internalID: -4992040745843078390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_32
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 358
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7758513ffdc2f36b0800000000000000
+      internalID: -5314479694906292873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_33
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 358
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb6c0dce37ecd1990800000000000000
+      internalID: -7413542414292302149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_34
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 359
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f48cd5fbb018c50800000000000000
+      internalID: 6665621840025112337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_35
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 389
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0483cc0b743dd4df0800000000000000
+      internalID: -194266904044750784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_36
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 329
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7de60926473a9770800000000000000
+      internalID: 8618261611402423679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_37
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 329
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed7ab4b599dfb090800000000000000
+      internalID: -8016449574690718237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_38
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 333
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa026cbc40d38c4c0800000000000000
+      internalID: -4267093556125622102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_39
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 336
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31aebc1f3408d2a80800000000000000
+      internalID: -8489988693215679981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_40
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 303
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6607b0296439f8470800000000000000
+      internalID: 8399093761376481382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_41
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 303
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a477faa15c49a90800000000000000
+      internalID: -7307999576911820179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 303
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ce58cc84a252020800000000000000
+      internalID: 2316304075509328944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 302
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c5902798135b5b0800000000000000
+      internalID: -5353318115666469809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_44
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 299
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a760c6a8c2ac9ce0800000000000000
+      internalID: -1397062801716910169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_45
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 299
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af30755dd3c9900800000000000000
+      internalID: 692496429205420659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_46
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 269
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f475a02d6d8ae00800000000000000
+      internalID: 1056330310223351558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_47
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 269
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313cc6bf250d8d180800000000000000
+      internalID: -9090286793023241453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 269
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a650dd6c65b9310800000000000000
+      internalID: 1412818320222415385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 269
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7829f7d4fbde75100800000000000000
+      internalID: 96807322906497671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_50
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 273
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642e07c1acc1a9640800000000000000
+      internalID: 5087410383454528070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_51
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 272
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4aa09878692dcd90800000000000000
+      internalID: -7075953910853096884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_52
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 268
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffa19050d4e675e0800000000000000
+      internalID: -1912089408416141315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_53
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 269
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123c0c1b5eccde430800000000000000
+      internalID: 3813929746354455329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_54
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 270
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70967ee51cac6d5f0800000000000000
+      internalID: -732174957531404025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_55
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 269
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8b93977e4b13e90800000000000000
+      internalID: -7047653035593844505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_56
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 270
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bbf96f89e0d022b0800000000000000
+      internalID: -5611255434151593039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_57
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 270
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0352a7392e96bb060800000000000000
+      internalID: 6970281270143755568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_58
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 240
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe09909991ad6df90800000000000000
+      internalID: -6929111173186350865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_59
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 241
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5905fc2e544ce4d0800000000000000
+      internalID: -3104030871893243557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_60
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 241
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef83489d1b07d4d30800000000000000
+      internalID: 4417310718681168126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_61
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 209
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd39d57f26eceb30800000000000000
+      internalID: 4318079234256485822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_62
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 179
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d72aebb894e1a20800000000000000
+      internalID: 3034944063441894813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_63
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 179
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38313110d80365470800000000000000
+      internalID: 8382941138563306371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_64
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 179
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6882887e66cc7d8a0800000000000000
+      internalID: -6280326413001676666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 240
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc1fddd18ab960c0800000000000000
+      internalID: -4581926078936834894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 239
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521a37e4dc7547150800000000000000
+      internalID: 5869412753666711845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 239
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e28329dfd54e07e0800000000000000
+      internalID: -1797422373551242523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_68
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 239
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3216186cf49b650800000000000000
+      internalID: 6249113671946019824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_69
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 240
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f1b2c583a102d80800000000000000
+      internalID: -8277587285740150933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_70
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 240
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4252c69882c20640800000000000000
+      internalID: 5044808424509035083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_71
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 240
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2f99063048ccbf0800000000000000
+      internalID: -302721924900195602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_72
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 240
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e0cee052125ee40800000000000000
+      internalID: 5684986547672976912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_73
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 240
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad4f89a7ae58ad750800000000000000
+      internalID: 6330519468348339418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_74
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 240
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fc879d8d3a5590800000000000000
+      internalID: -7684762135812050792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 239
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452a033d6b0cb83f0800000000000000
+      internalID: -897411809270521260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_76
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 179
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ced3c8b1a492420800000000000000
+      internalID: 2605695341587983474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_77
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 209
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca58186b9b4103bd0800000000000000
+      internalID: -2652597392657775188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_78
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 180
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8278a2ed52c0fa830800000000000000
+      internalID: 4084496743828981544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_79
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 209
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2f1523f8818670800000000000000
+      internalID: 8539256946352402362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_80
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 179
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1557460e2d9cff330800000000000000
+      internalID: 3746935322540537169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_81
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 118
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dd5665d5a87092b0800000000000000
+      internalID: -5579827284666851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_82
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 151
+        width: 58
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bbef60da89b3100800000000000000
+      internalID: 88832486577978213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_83
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 120
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70577530a6cfb620800000000000000
+      internalID: 2792168685387075710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_84
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 121
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615818c6a013b5d20800000000000000
+      internalID: 3268259875427288342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_85
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 118
+        width: 18
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ad5e04247fbaa90800000000000000
+      internalID: -7301470506922419590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_86
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 179
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6421b661624901740800000000000000
+      internalID: 5120755667626037830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_87
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 209
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3252bba1a0099b8b0800000000000000
+      internalID: -5135915526966794973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_88
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 209
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0061f2ac7a4aeb370800000000000000
+      internalID: 8340284600495314432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_89
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 207
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f75e6eed128c50b0800000000000000
+      internalID: -5738568760110983175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_90
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 207
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5627a7b8cd719f930800000000000000
+      internalID: 4177396365363147365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_91
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 178
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91738c0f6daf9d060800000000000000
+      internalID: 6978884898656892697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_92
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 178
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c221bcd2bea97bb0800000000000000
+      internalID: -4937723433205030203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 183
+        width: 26
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d81377ec414e2b0800000000000000
+      internalID: -5556293163272794841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_94
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 212
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c033b2d1eb3f5b0800000000000000
+      internalID: -5335712101015811067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_95
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 178
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495b6e368f9f7ae70800000000000000
+      internalID: 9126538015112869268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_96
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 208
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847daf13aef19a560800000000000000
+      internalID: 7325421359616153416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 179
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a9829116b1372ae0800000000000000
+      internalID: -1574234886694073944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 149
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4729d6801ffa650800000000000000
+      internalID: 6246476226686514404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836215095775493c0800000000000000
+      internalID: -4353758777316399560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_100
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 119
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4adcf8655014fe0800000000000000
+      internalID: -1206677355820636936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_101
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 120
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9e9db01676ea760800000000000000
+      internalID: 7471022498362550729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 61
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e4732dac3a744db0800000000000000
+      internalID: -4808584101103438619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_103
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 151
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7119115b75cf35c0800000000000000
+      internalID: -4233447991272730243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_104
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 151
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1680c5c019d4e8a10800000000000000
+      internalID: 1913552177051994209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_105
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ba535d93080730800000000000000
+      internalID: 3965423446142925092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_106
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 119
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf1a1715cb73f9f0800000000000000
+      internalID: -435868652498444363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_107
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 119
+        width: 59
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b644b46ba9dcd6c90800000000000000
+      internalID: -7174852566964288405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_108
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 119
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5c2a0a778b3e740800000000000000
+      internalID: 5180186820341843452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_109
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 119
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abaafeab511dbe180800000000000000
+      internalID: -9084937932029056326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_110
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 64
+        width: 27
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edf53c4f00e76e0800000000000000
+      internalID: -1838030546670723470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_111
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 95
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fd06eadd415f4d0800000000000000
+      internalID: -3101549826028806376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_112
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 58
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c433281f44994d20800000000000000
+      internalID: 3263302472434922688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_113
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 58
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c560544b8436710800000000000000
+      internalID: 1685270624656055378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_114
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 91
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e3017fa82911560800000000000000
+      internalID: 7282763197982981786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_115
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 91
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e85a338483125e30800000000000000
+      internalID: 4490673238300055783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_116
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 90
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c977f4855c7c90d0800000000000000
+      internalID: -3414717710708803133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_117
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 90
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6927b160fed2310800000000000000
+      internalID: 1382023470181947096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_118
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 92
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd1f0620e9f45b10800000000000000
+      internalID: 1969473678174264758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_119
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 92
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e2a9afcb827610800000000000000
+      internalID: 1617508940199944298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_120
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 94
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf525deafc5db6c0800000000000000
+      internalID: -4126039450808328260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_121
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 28
+        width: 31
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afaf42ff3131a280800000000000000
+      internalID: -9033885226810495065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_122
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 29
+        width: 27
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe5f21abf512cec0800000000000000
+      internalID: -3548249385929318722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_123
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 31
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830a547ef10cd7560800000000000000
+      internalID: 7313212613176172600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_124
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 32
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df806254e9024c0800000000000000
+      internalID: -4314274423192879774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_125
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 29
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0933321da8c6e6ef0800000000000000
+      internalID: -113033597167651952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 30
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba5a9b79bbc53770800000000000000
+      internalID: 8589995861782190780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_127
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 29
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 035234a4534340ef0800000000000000
+      internalID: -142931884685187792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_128
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 0
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b2cce2a299e5550800000000000000
+      internalID: 6151522547487484792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_129
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe3ff74ade4c9e60800000000000000
+      internalID: 7970332139956682486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_130
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 0
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f036b75b89d8a230800000000000000
+      internalID: 3650406690479026424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_131
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 0
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec4d12c9c871c380800000000000000
+      internalID: -8952741776295375633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_132
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 0
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f3b3f8f7c886860800000000000000
+      internalID: 7523417657014173455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_133
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfc6ac57d7f95d30800000000000000
+      internalID: 4420837013585317849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_134
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 0
+        width: 60
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176bc8cbda565b780800000000000000
+      internalID: -8667910110937565583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_135
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deea608f6c8932140800000000000000
+      internalID: 4693763216982322925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_136
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 10
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb40785874c03d2c0800000000000000
+      internalID: -4408166108943153985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_137
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 0
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52969575093040da0800000000000000
+      internalID: -5979650486765524699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_138
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 59
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb036bfac9256830800000000000000
+      internalID: 4063700190549445559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_139
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 59
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d313d5aecb9fab4d0800000000000000
+      internalID: -3117905202219503299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_140
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b14fe65aec41e70800000000000000
+      internalID: 9085113558239550274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_141
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 0
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef13607e3436fc880800000000000000
+      internalID: -8588536821082344962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_142
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 29
+        width: 29
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e9cb43b63b67820800000000000000
+      internalID: 2915715081796624000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_143
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43482418ff9c23cb0800000000000000
+      internalID: -4885620546521103308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee48b7983b6c6d2a0800000000000000
+      internalID: -6712959720141126418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_145
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf33faab4d5ecd0800000000000000
+      internalID: -2529381717430240306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_146
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 58
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359bf4769af06f5f0800000000000000
+      internalID: -723373469889218221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_147
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 86
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b962e0a29222c1760800000000000000
+      internalID: 7429851045449049755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nature_tiles_148
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 75
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a663ac588c76bf0800000000000000
+      internalID: -331075570639672799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fondo animado menu.unity
+    guid: 3d812fddfd092184ca8d94ee17da9951
+  - enabled: 1
+    path: "Assets/Scenes/Habitaci\xF3n.unity"
+    guid: f2877715cb465f443938e7e9b3fba648
+  - enabled: 1
+    path: Assets/Scenes/Bosque inicial.unity
+    guid: efaabe9e1eb4db649996931e96870203
+  - enabled: 1
+    path: "Assets/Scenes/Monta\xF1as.unity"
+    guid: 911f19fb81ff9c64884830ce37282d45
+  - enabled: 1
+    path: Assets/Scenes/Cofre.unity
+    guid: 3de68831277535c4295ed8dc042c865b
+  - enabled: 1
+    path: Assets/Scenes/Pausa.unity
+    guid: 581505b22f0814347ae7293ebd13858f
+  - enabled: 1
+    path: Assets/Scenes/Batalla.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: 4cf43848a191b5749aa231ffc5d30d23
+  - enabled: 1
+    path: Assets/Scenes/Tienda.unity
+    guid: 3c1de94bfa745de45a97003778b9462c
+  - enabled: 1
+    path: Assets/Scenes/Objetos.unity
+    guid: 15db1ff7685f2e34ba82819ac35c5e98
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  m_configObjects: {}
